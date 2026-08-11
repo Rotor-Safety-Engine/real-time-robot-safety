@@ -135,6 +135,15 @@ The VLA model continues to handle perception, planning, and high-level decision-
 - Cobot safety
 - Power and Force Limiting (PFL)
 
+## ⚠️ Disclaimer
+
+This project is provided for **research and educational purposes only**. It is NOT a certified safety device, NOT a substitute for professional risk assessment, and NOT intended for use in safety-critical applications without independent validation.
+
+The authors make NO representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or suitability of the software. Any use is at your own risk.
+
+Always comply with local safety regulations (ISO 10218, ISO/TS 15066, and applicable national standards) and conduct thorough risk assessments before deploying any robotic system.
+
+---
 ## License
 
 MIT — educational and reference use.
